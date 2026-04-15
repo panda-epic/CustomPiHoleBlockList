@@ -163,7 +163,10 @@ click.oneplus.cn
 0.0.0.0 notes-analytics-events.apple.com
 # Adblock Turtlecute dot Org Failed Cosmetic Filter
 0.0.0.0 adbox.banner_ads.adsbox
-0.0.0.0 textads
+0.0.0.0 pagead.js
+0.0.0.0 pageads.js
 # Adblock Turtlecute dot Org Failed Ad Script
 0.0.0.0 adblock.turtlecute.org
-0.0.0.0 ads
+0.0.0.0 ads.js
+# Adblock Turtlecute dot Org
+0.0.0.0 
