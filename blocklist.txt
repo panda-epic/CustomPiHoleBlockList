@@ -1,4 +1,4 @@
-# Custom List per AdblockTurtleCute.Org
+# Custom List per Adblock.TurtleCute.Org
 # Total number : 133
 # ------------------------------------[FILTERS]-------------------------------------
 #Amazon
@@ -11,7 +11,7 @@
 0.0.0.0 adservice.google.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 afs.googlesyndication.com
-0.0.0.0 # Doubleclick.net
+# Doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 static.doubleclick.net
@@ -161,3 +161,9 @@ click.oneplus.cn
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 weather-analytics-events.apple.com 
 0.0.0.0 notes-analytics-events.apple.com
+# Adblock Turtlecute dot Org Failed Cosmetic Filter
+0.0.0.0 adbox.banner_ads.adsbox
+0.0.0.0 textads
+# Adblock Turtlecute dot Org Failed Ad Script
+0.0.0.0 adblock.turtlecute.org
+0.0.0.0 ads
